@@ -1,13 +1,5 @@
 ## Igor Nicoletti
 
-I'm a Front-End _JavaScript_ Developer.
-
-[![Linkedin](https://img.shields.io/badge/-igornicoletti-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igornicoletti/)](https://www.linkedin.com/in/igornicoletti/)
-[![Gmail](https://img.shields.io/badge/-igor93nicoletti@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igor93nicoletti@gmail.com)](mailto:igor93nicoletti@gmail.com)
-</br>
-</br>
-# Olá, mundo! 👋
-
 Sou um desenvolvedor de software apaixonado por criar aplicações web modernas com foco em performance, arquitetura limpa e qualidade de código.
 
 ## 🚀 Meu Stack e Filosofia de Desenvolvimento
